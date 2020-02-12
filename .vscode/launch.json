@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HolaMundo",
+            "request": "launch",
+            "mainClass": "Java.HolaMundo",
+            "projectName": "Aprendiendo-Fullstack_ef960553"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HolaMundo<Aprendiendo-Fullstack_ef960553>",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "Aprendiendo-Fullstack_ef960553"
+        }
+    ]
+}
